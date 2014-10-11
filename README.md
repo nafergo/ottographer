@@ -1,6 +1,7 @@
 # Ottographer
 Ottographer is a webcam time-lapse tool (bash script) for operating systems based on GNU/Linux Debian &amp; Ubuntu. There are no current plans to develop this any further, development goes in a strict as-needed policy.
 
+Coding started by Luis Carvalheiro, on a dull friday afternoon. Nelson polished things and gave a major advance with the GUI.
 
 ## License
 Ottographer is Free/Libre Software, released under GNU General Public License, version 3.
